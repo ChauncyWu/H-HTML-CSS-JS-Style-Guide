@@ -46,17 +46,21 @@ color: #ebc;
 .ads-sample {}
 ```
 
-### 7. 在选择器和开始声明块的左大括号之间使用一个空格
+### 7. 添加必要的空格保证代码易读性
 
 ```css
-# Not recommended
-h3 {
-  font-weight:bold;
+# 1. 在选择器和开始声明块的左大括号之间使用一个空格
+# 2. 逗号之后一个空格
+# 3. 颜色值 rgb() rgba() hsl() hsla() rect() 中不需有空格，且取值不要带有不必要的 0
+# 4. !important前使用一个空格
+## Not recommended
+.demo{
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5),2px 2px 2px #ccc;
 }
 
-# Recommended 
-h3 {
-  font-weight: bold;
+## Recommended 
+.demo {
+  box-shadow: 1px 1px 1px rgba(0,0,0,.5), 2px 2px 2px #ccc;
 }
 ```
 

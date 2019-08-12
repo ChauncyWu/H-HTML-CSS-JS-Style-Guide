@@ -15,6 +15,7 @@
 
 * [Code Standards](css-1/code-standards.md)
 * [Annotation specification](css-1/annotation-specification.md)
+* [Media queries](css-1/media-queries.md)
 
 ## JS
 
