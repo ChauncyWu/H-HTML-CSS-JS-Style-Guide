@@ -9,6 +9,7 @@
 
 * [Code Standards](html-1/code-standards.md)
 * [Annotation specification](html-1/annotation-specification.md)
+* [Accessibility](html-1/accessibility.md)
 
 ## CSS <a id="css-1"></a>
 
