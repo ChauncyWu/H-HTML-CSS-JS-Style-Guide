@@ -3,7 +3,6 @@
 * [HTML/CSS/JS Style Guide](README.md)
 * [General](general.md)
 * [Reference documentation](reference-documentation.md)
-* [Untitled](untitled.md)
 
 ## HTML <a id="html-1"></a>
 
@@ -20,4 +19,10 @@
 ## JS
 
 * [Code Standards](js/code-standards.md)
+
+## Performance
+
+* [html](performance/html.md)
+* [css](performance/css.md)
+* [js](performance/js.md)
 
