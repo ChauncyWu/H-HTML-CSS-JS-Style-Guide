@@ -1,6 +1,6 @@
 # js
 
-### 1. JS到body尾部，JS，CSS都需要放在head中时，JS放在前面
+### 1. JS放body尾部，JS，CSS都需要放在head中时，JS放在前面
 
 * CSS会阻塞页面的渲染，不阻塞DOM的解析；
 * JS会阻塞DOM的解析，但是，浏览器会预先下载资源；

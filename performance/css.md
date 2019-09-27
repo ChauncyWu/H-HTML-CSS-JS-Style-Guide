@@ -80,7 +80,7 @@ will-change的作用告诉浏览器哪些属性将要变化，让他可以提前
 
  当元素改变的时候，将不会影响元素在页面当中的位置（比如 `background-color`, `border-color`, `visibility`），浏览器仅仅会应用新的样式重绘此元素，此过程称为 `Repaint`。
 
-
+### 16. 压缩CSS代码，排除重复的CSS样式
 
 
 
