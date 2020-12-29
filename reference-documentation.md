@@ -5,6 +5,7 @@
 * [腾讯alloyteam团队前端代码规范](https://www.kancloud.cn/digest/code-guide/42603)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [凹凸实验室](https://guide.aotu.io/docs/html/code.html)
+* [阮一峰\|中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 
 ### 2. 性能相关
 
