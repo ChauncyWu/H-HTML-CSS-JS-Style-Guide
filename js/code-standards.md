@@ -1,13 +1,28 @@
 # Code Standards
 
-### 1. 函数编写规范
+### 1. 文档注释
+
+```javascript
+/*
+ * @Author: Chauncywu
+ * @Date: 2020-09-27 10::35
+ * @LastEditTime: 2021-01-27 11:20:15
+ * @LastEditors: Please set LastEditors
+ * @Description: Cookie相关方法
+ * @FilePath: 文件路径
+ */
+```
+
+### 2. 函数注释
 
 ```javascript
 /**
- * 函数描述
- *
+ * @description: 函数描述
  * @param {number} num 参数1的说明
  * @return {number} 返回值的说明
+ * @example
+ *
+ *
  */
 function test(num) {
   var n += 1
@@ -28,6 +43,4 @@ function test(num) {
 | @const | 常量 |
 | @example | 示例 |
 | @copyright | 版权声明 |
-
-
 
